@@ -1,4 +1,4 @@
-<?php
+ui<?php
 $environment = getenv('APP_ENV') ?: 'unknown';
 $dbHost = getenv('DB_HOST') ?: 'db';
 $dbPort = getenv('DB_PORT') ?: '3306';
